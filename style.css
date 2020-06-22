@@ -1,0 +1,27 @@
+p{
+    font-size:25px;
+    color: rgb(168, 130, 130);
+
+}
+body{
+background-color: powderblue;
+}
+
+
+h3{
+    word-spacing: 1.5rem;
+}
+.dot{
+    height: 25px;
+    width: 25px;
+    border-radius: 50px;
+    display:inline-block;
+    background: darksalmon;
+    border-color:blue;
+}
+ .fashion{
+     float: right;
+     clear:right;
+     margin-left:10px;
+     padding:100px;
+ }
